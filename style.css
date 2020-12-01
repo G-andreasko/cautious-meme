@@ -7,7 +7,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-image:url("/background/survey.png");
+    background-image:url("https://surveymonkey-assets.s3.amazonaws.com/smtheme/5223025/ab100d4d-871b-43f5-b3da-4fe14ae8cab1.png");
     background-position:center;
     background-size:cover;
     background-attachment:fixed;
@@ -103,4 +103,5 @@ textarea{
     text-transform: uppercase;
     background-color:rgb(243, 151, 151);
     font-family: arial black;
+    cursor:pointer;
 }

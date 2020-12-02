@@ -84,6 +84,10 @@ input {
 textarea{
     padding:5px;
     box-sizing: border-box;
+    max-width: 100%;
+    min-width:100%;
+    max-height:200px;
+    min-height:50px;
 }
 
 .input-shape{
